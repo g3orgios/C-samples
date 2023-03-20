@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Program
+class WordO
 {
     static void Main(string[] args)
     {
